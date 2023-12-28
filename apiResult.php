@@ -2,7 +2,7 @@
 error_reporting(0);
 
 $version = "1.0.0 beta";
-$versionIntro = "规则之树手机客户端"; //支持html代码
+$versionIntro = ""; //支持html代码
 $versionUrl = "";
 $versionCode = 10;
 
